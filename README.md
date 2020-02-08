@@ -1,1 +1,1 @@
-# PrEs-S2
+# LabPrEs-S2
