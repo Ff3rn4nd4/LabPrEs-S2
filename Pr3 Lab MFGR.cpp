@@ -18,12 +18,12 @@ int main () {
 		}else
 		{
 			if( 65 <= a && a <=90){
-				printf("Upper Entero alfabetico");
+				printf("Upper Entero alfabetico: ");
 		}else{
 			if(97<= a && a <=122){
-				printf("Lower entrero alfabetico");
+				printf("Lower entrero alfabetico: ");
 				}else{
-					printf("simbolo entero:");
+					printf("simbolo entero: ");
 				}
 			}
 			
