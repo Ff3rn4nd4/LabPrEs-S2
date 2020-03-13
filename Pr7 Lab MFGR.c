@@ -21,7 +21,7 @@ int main(){
 	puts("Los multiplos son:");
 	for(i=1;i<=n;i++)
 	{
-		mult=i*b;
+		multiplo=i*b;
 		printf("%d * %d = %d\n",i,b,i*b);
 	}
 	
